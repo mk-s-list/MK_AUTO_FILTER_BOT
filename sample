@@ -1,0 +1,6 @@
+API_ID=123456
+API_HASH=xxxxxx
+BOT_TOKEN=xxxxxx
+MONGO_URI=mongodb+srv://...
+OWNER_ID=123456789
+LOG_CHANNEL=-100xxxxxxxx

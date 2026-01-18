@@ -1,0 +1,8 @@
+pyrogram
+TgCrypto
+motor
+dnspython
+aiohttp
+pytz
+requests
+telegraph
